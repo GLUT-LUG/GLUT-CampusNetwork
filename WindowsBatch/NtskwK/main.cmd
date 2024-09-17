@@ -1,4 +1,4 @@
-@REM ©2024 Ntskwk. All rights reserved.
+@REM ©2024 NtskwK. All rights reserved.
 
 @REM 改变控制台默认编码
 chcp 65001
