@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "ms-python.autopep8",
+        "nilssoderman.batch-runner",
+        "ms-ceintl.vscode-language-pack-zh-hans"
+    ]
+}
