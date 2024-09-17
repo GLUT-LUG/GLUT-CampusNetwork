@@ -17,3 +17,8 @@
 # 其他参考
 
 下面收录了其他学长写过的实现方案。感谢学长们的开源。
+
+|  作者   | 项目名称| 主要语言 | 适用平台 |
+|  ----  | ----  | ---- | ---- |
+| [JiyeHoo](https://github.com/JiyeHoo)  | [GLUT-Network-Helper](https://github.com/GLUT-LUG/GLUT-Network-Helper) | Java | Android |
+| [chrrg](https://github.com/chrrg) | [glut-network](https://github.com/chrrg/glut-network) | VBA | Windows |
